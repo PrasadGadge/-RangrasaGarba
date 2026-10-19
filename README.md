@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RANGRASA — The Garba Edit
 
 A premium, responsive front-end mini-project celebrating Gujarati Garba, Bandhani textiles, festive chaniya choli styles, and kediyu-inspired menswear.
@@ -51,3 +52,6 @@ No framework, build step, API key, or package install is required.
 4. Update quantities, show the live subtotal, and refresh to demonstrate `localStorage` persistence.
 5. Take the style finder quiz, add the result to the bag, apply `GARBA10`.
 6. Save a product to the wishlist and test the newsletter confirmation.
+=======
+# -RangrasaGarba
+>>>>>>> 6adbf5b988fe287b62674b27f82cfc65fbd31328
